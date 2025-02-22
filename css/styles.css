@@ -22,10 +22,6 @@
     color: var(--main-color);
 }
 
-.highlight-certifications {
-    color: var(--main-color);
-}
-
 /* Containers */
 #container {
     display: flex;
